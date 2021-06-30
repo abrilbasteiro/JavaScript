@@ -25,3 +25,12 @@ This time I utilized some of the different types of loops among which are *FOR*,
 
 ### switch
 Working with the *switch* statement to find the price of a product.
+
+### fetch
+Using *fetch* to retrieval data by two differents URLs and display it on the screen.
+
+### exception
+I used the *try* statement to test a block of code for errors. This code includes a function where I put a *throw* statement to create a custom error and, finaly, I used the *catch* statement to handle the exceptions found.
+
+### class
+Working with classes and inheritance to extend Child class from Parent.
