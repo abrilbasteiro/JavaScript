@@ -34,3 +34,7 @@ I used the *try* statement to test a block of code for errors. This code include
 
 ### class
 Working with classes and inheritance to extend Child class from Parent.
+
+
+### regular expressions
+In this section I was working with the creation of regular expressions and its patterns according to the development requirements.
